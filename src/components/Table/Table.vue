@@ -144,6 +144,16 @@ export default {
                 return [];
             }
         },
+        handleChange: {
+            type: Function,
+            default: function () {
+                return ;
+            }
+        },
+        selection: {
+            type: Boolean,
+            default: false
+        }
     },
     data() {
         return {
