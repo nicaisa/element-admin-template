@@ -31,9 +31,9 @@
             return {
                 //导航列表数据
                 menuData:[
-                    // 数据看板
+                    // 企业管理
                     {
-                        menuTitle: '数据看板',
+                        menuTitle: '企业管理',
                         add:'+',
                         dec:'-',
                         path: '/overview',
